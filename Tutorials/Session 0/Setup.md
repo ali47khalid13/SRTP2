@@ -26,5 +26,5 @@ Run the following commands in your terminal/cmd
 
 
 # Installing required libraries 
-Run the command below in your terminad/cmd to install required libraries on your system.
-'pip install -r requirements.txt'
+Run the command below in your terminad/cmd to install required libraries on your system.*
+* `pip install -r requirements.txt`
