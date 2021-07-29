@@ -1,0 +1,8 @@
+numpy 
+matplotlib
+jupyterlab
+notebook
+scipy==1.1.0
+pillow
+pandas
+scikit-learn
