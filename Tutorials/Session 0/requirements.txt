@@ -6,3 +6,6 @@ scipy
 pillow
 pandas
 scikit-learn
+keras
+tensorflow
+opencv-python
